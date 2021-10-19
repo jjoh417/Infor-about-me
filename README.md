@@ -1,1 +1,1 @@
-# Infor-about-me
+# Info-about-me
